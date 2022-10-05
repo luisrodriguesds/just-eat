@@ -1,0 +1,13 @@
+#home {
+  max-width: 600px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+#home .home-title {
+  margin: 30px 0;
+}
+
+#home .home-title {
+  text-align: center;
+}
